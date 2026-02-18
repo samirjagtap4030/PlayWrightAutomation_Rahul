@@ -1,0 +1,7 @@
+--- CALENDAR LOGIC NOTES ---
+1. महिना निवडण्यासाठी 'While Loop' वापरायचा.
+2. वर्ष निवडताना 'Dropdown' किंवा 'Text search' वापरायचा.
+3. तारीख निवडताना 'allInnerTexts()' वापरून लूप फिरवायचा.
+
+COMMAND TO OPEN TRACE VIEWER:
+npx playwright show-trace trace.zip
